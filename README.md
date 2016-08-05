@@ -79,9 +79,9 @@ word clouds for twitter users when it is mentioned with a particular hashtag.
 [Here][twitter-wordnuvola] you can see it in action, while [here][imgur-wordnuvola]
 you can see all the word clouds generated so far.
 
-### [Society of Women Engineers GetSET(Science, Engineering & Technology) Workshop](http://www.getset.org/)
+### Society of Women Engineers GetSET(Science, Engineering & Technology) Workshop
 
-The GetSET program is an award winning outreach program of the Society of Women Engineers Santa Clara Valley Section (SWE-SCV) dedicated to encouraging, motivating and exposing young ladies from underrepresented groups to STEM careers.  After a crash course in Python, the girls learn to install and use libraries such as this.  The lesson plan and more examples can be seen [here](). 
+The [GetSET program](http://www.getset.org/) is an award winning outreach program of the Society of Women Engineers Santa Clara Valley Section (SWE-SCV) dedicated to encouraging, motivating and exposing young ladies from underrepresented groups to STEM careers.  After a crash course in Python, the girls learn to install and use libraries such as this.  The lesson plan and more examples can be seen [here](). 
 
 ### [other]
 
