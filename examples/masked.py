@@ -33,10 +33,16 @@ wc.generate(text)
 # store to file
 wc.to_file(path.join(d, "alice.png"))
 
-# show
-plt.imshow(wc)
-plt.axis("off")
-plt.figure()
-plt.imshow(alice_mask, cmap=plt.cm.gray)
-plt.axis("off")
-plt.show()
+# Status update so students don't get confused.
+print("The file has been created.")
+
+
+# show (for systems that allow pop up figures)
+# won't work on pythonanywhere.com
+
+#plt.imshow(wc)
+#plt.axis("off")
+#plt.figure()
+#plt.imshow(alice_mask, cmap=plt.cm.gray)
+#plt.axis("off")
+#plt.show()
