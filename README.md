@@ -10,6 +10,8 @@ word_cloud
 A little word cloud generator in Python. Read more about it on the [blog
 post][blog-post] or the [website][website].
 The code is Python 2, but Python 3 compatible.
+This fork is tailored for use with the SWE GetSET workshops.
+
 
 ## Installation
 
